@@ -1,5 +1,4 @@
-Project Overview
-​This project is a Weighted Scoring Model designed to solve "analysis paralysis" when faced with multiple competing career paths. By quantifying subjective and objective criteria, the tool provides a mathematical foundation for choosing the option with the highest probability of success and satisfaction.
+This project is a Weighted Scoring Model designed to solve "analysis paralysis" when faced with multiple competing career paths. By quantifying subjective and objective criteria, the tool provides a mathematical foundation for choosing the option with the highest probability of success and satisfaction.
 ​How it Works
 ​The decision matrix operates on a Weighted Multiplier logic:
 ​Variable Weighting: Each criterion is assigned a weight based on its priority (e.g., Job Market = 5, Pay = 3, Schooling = 1).
